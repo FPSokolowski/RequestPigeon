@@ -1,0 +1,21 @@
+Copyright (c) 2026 Filip Sokołowski
+
+This software is licensed for non-commercial use only.
+
+Permission is granted to use, copy, modify, and distribute this software
+for personal, educational, and non-commercial purposes.
+
+Commercial use is not permitted without a separate commercial license.
+
+To obtain a commercial license, contact:
+codetree.filip.sokolowski@gmail.com
+
+Commercial use includes, but is not limited to:
+- use in a business environment
+- use to generate revenue
+- use as part of a product or service offered to clients
+- internal business operations
+
+All rights reserved.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.

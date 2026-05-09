@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="RequestPigeon.Application.Tests/RequestPigeon.Application.Tests.csproj" />
+  <Project Path="RequestPigeon.Application/RequestPigeon.Application.csproj" />
+  <Project Path="RequestPigeon.Domain.Tests/RequestPigeon.Domain.Tests.csproj" />
+  <Project Path="RequestPigeon.Domain/RequestPigeon.Domain.csproj" />
+  <Project Path="RequestPigeon.Infrastructure/RequestPigeon.Infrastructure.csproj" />
+  <Project Path="RequestPigeon.IntegrationTests/RequestPigeon.IntegrationTests.csproj" />
+  <Project Path="RequestPigeon.Web/RequestPigeon.Web.csproj" />
+</Solution>

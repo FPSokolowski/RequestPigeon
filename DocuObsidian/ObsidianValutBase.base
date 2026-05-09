@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.backlinks
+      - file.links
+      - file.ext
+      - file.tags
+      - dbType
